@@ -1,0 +1,2162 @@
+[
+  {
+    "date": "2009-01-01",
+    "AreaName": "Australia",
+    "Sales": 2370.08,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-01",
+    "AreaName": "Hunter Valley",
+    "Sales": 3418.8,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-01",
+    "AreaName": "Michael Goldman",
+    "Sales": 1,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-01",
+    "AreaName": "Victoria",
+    "Sales": 4790.38,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-02",
+    "AreaName": "Australia",
+    "Sales": 4243.6,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-02",
+    "AreaName": "Hunter Valley",
+    "Sales": 8490.2,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-02",
+    "AreaName": "Michael Goldman",
+    "Sales": 11827,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-02",
+    "AreaName": "Victoria",
+    "Sales": 5293.92,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-03",
+    "AreaName": "Australia",
+    "Sales": 4162.35,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-03",
+    "AreaName": "Hunter Valley",
+    "Sales": 9533.6,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-03",
+    "AreaName": "Michael Goldman",
+    "Sales": 12235,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-03",
+    "AreaName": "Victoria",
+    "Sales": 3092.23,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-04",
+    "AreaName": "Australia",
+    "Sales": 3007.49,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-04",
+    "AreaName": "Hunter Valley",
+    "Sales": 4877.8,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-04",
+    "AreaName": "Michael Goldman",
+    "Sales": 4194,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-04",
+    "AreaName": "Victoria",
+    "Sales": 3445.38,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-05",
+    "AreaName": "Australia",
+    "Sales": 1990.1,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-05",
+    "AreaName": "Hunter Valley",
+    "Sales": 3291.5,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-05",
+    "AreaName": "Michael Goldman",
+    "Sales": 5570,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-05",
+    "AreaName": "Victoria",
+    "Sales": 1966.5,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-06",
+    "AreaName": "Australia",
+    "Sales": 1968.99,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-06",
+    "AreaName": "Hunter Valley",
+    "Sales": 4008.67,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-06",
+    "AreaName": "Michael Goldman",
+    "Sales": 7622,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-06",
+    "AreaName": "Victoria",
+    "Sales": 2311.75,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-07",
+    "AreaName": "Australia",
+    "Sales": 2161.99,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-07",
+    "AreaName": "Hunter Valley",
+    "Sales": 2988.5,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-07",
+    "AreaName": "Michael Goldman",
+    "Sales": 4259,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-07",
+    "AreaName": "Victoria",
+    "Sales": 2135.46,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-08",
+    "AreaName": "Australia",
+    "Sales": 2335.59,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-08",
+    "AreaName": "Hunter Valley",
+    "Sales": 4677.83,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-08",
+    "AreaName": "Michael Goldman",
+    "Sales": 7150,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-08",
+    "AreaName": "Victoria",
+    "Sales": 2450.23,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-09",
+    "AreaName": "Australia",
+    "Sales": 2486.33,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-09",
+    "AreaName": "Hunter Valley",
+    "Sales": 4068.67,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-09",
+    "AreaName": "Michael Goldman",
+    "Sales": 7736,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-09",
+    "AreaName": "Victoria",
+    "Sales": 2298.54,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-10",
+    "AreaName": "Australia",
+    "Sales": 3435.83,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-10",
+    "AreaName": "Hunter Valley",
+    "Sales": 5704.17,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-10",
+    "AreaName": "Michael Goldman",
+    "Sales": 8593,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-10",
+    "AreaName": "Victoria",
+    "Sales": 2948.5,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-11",
+    "AreaName": "Australia",
+    "Sales": 2712.21,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-11",
+    "AreaName": "Hunter Valley",
+    "Sales": 4245.5,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-11",
+    "AreaName": "Michael Goldman",
+    "Sales": 3330,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-11",
+    "AreaName": "Victoria",
+    "Sales": 2402.36,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-12",
+    "AreaName": "Australia",
+    "Sales": 1647.09,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-12",
+    "AreaName": "Hunter Valley",
+    "Sales": 2036.83,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-12",
+    "AreaName": "Michael Goldman",
+    "Sales": 4778,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-12",
+    "AreaName": "Victoria",
+    "Sales": 3516.27,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-13",
+    "AreaName": "Australia",
+    "Sales": 1300.52,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-13",
+    "AreaName": "Hunter Valley",
+    "Sales": 2299.17,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-13",
+    "AreaName": "Michael Goldman",
+    "Sales": 3370,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-13",
+    "AreaName": "Victoria",
+    "Sales": 1468.27,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-14",
+    "AreaName": "Australia",
+    "Sales": 1433.12,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-14",
+    "AreaName": "Hunter Valley",
+    "Sales": 2187.83,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-14",
+    "AreaName": "Michael Goldman",
+    "Sales": 2922,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-14",
+    "AreaName": "Victoria",
+    "Sales": 1642.33,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-15",
+    "AreaName": "Australia",
+    "Sales": 1695.71,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-15",
+    "AreaName": "Hunter Valley",
+    "Sales": 3198.83,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-15",
+    "AreaName": "Michael Goldman",
+    "Sales": 4133,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-15",
+    "AreaName": "Victoria",
+    "Sales": 1987.25,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-16",
+    "AreaName": "Australia",
+    "Sales": 2007.56,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-16",
+    "AreaName": "Hunter Valley",
+    "Sales": 1840.5,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-16",
+    "AreaName": "Michael Goldman",
+    "Sales": 4073,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-16",
+    "AreaName": "Victoria",
+    "Sales": 2133.08,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-17",
+    "AreaName": "Australia",
+    "Sales": 3538.19,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-17",
+    "AreaName": "Hunter Valley",
+    "Sales": 5270,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-17",
+    "AreaName": "Michael Goldman",
+    "Sales": 9035,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-17",
+    "AreaName": "Victoria",
+    "Sales": 3462.85,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-18",
+    "AreaName": "Australia",
+    "Sales": 2678.51,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-18",
+    "AreaName": "Hunter Valley",
+    "Sales": 3209.83,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-18",
+    "AreaName": "Michael Goldman",
+    "Sales": 3999,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-18",
+    "AreaName": "Victoria",
+    "Sales": 3793.62,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-19",
+    "AreaName": "Australia",
+    "Sales": 1284.41,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-19",
+    "AreaName": "Hunter Valley",
+    "Sales": 2241.83,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-19",
+    "AreaName": "Michael Goldman",
+    "Sales": 4675,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-19",
+    "AreaName": "Victoria",
+    "Sales": 1836.91,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-20",
+    "AreaName": "Australia",
+    "Sales": 1082.75,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-20",
+    "AreaName": "Hunter Valley",
+    "Sales": 1753.67,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-20",
+    "AreaName": "Michael Goldman",
+    "Sales": 2314,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-20",
+    "AreaName": "Victoria",
+    "Sales": 1378.45,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-21",
+    "AreaName": "Australia",
+    "Sales": 1399.7,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-21",
+    "AreaName": "Hunter Valley",
+    "Sales": 1646.33,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-21",
+    "AreaName": "Michael Goldman",
+    "Sales": 1812,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-21",
+    "AreaName": "Victoria",
+    "Sales": 1876.08,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-22",
+    "AreaName": "Australia",
+    "Sales": 1619.16,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-22",
+    "AreaName": "Hunter Valley",
+    "Sales": 2411.67,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-22",
+    "AreaName": "Michael Goldman",
+    "Sales": 2634,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-22",
+    "AreaName": "Victoria",
+    "Sales": 2033.58,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-23",
+    "AreaName": "Australia",
+    "Sales": 2030.17,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-23",
+    "AreaName": "Hunter Valley",
+    "Sales": 1875.17,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-23",
+    "AreaName": "Michael Goldman",
+    "Sales": 1631,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-23",
+    "AreaName": "Victoria",
+    "Sales": 2129.42,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-24",
+    "AreaName": "Australia",
+    "Sales": 3834.83,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-24",
+    "AreaName": "Hunter Valley",
+    "Sales": 4731.5,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-24",
+    "AreaName": "Michael Goldman",
+    "Sales": 4611,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-24",
+    "AreaName": "Victoria",
+    "Sales": 4323.92,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-25",
+    "AreaName": "Australia",
+    "Sales": 4332.67,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-25",
+    "AreaName": "Hunter Valley",
+    "Sales": 6837.83,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-25",
+    "AreaName": "Michael Goldman",
+    "Sales": 8224,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-25",
+    "AreaName": "Victoria",
+    "Sales": 5235.31,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-26",
+    "AreaName": "Australia",
+    "Sales": 2448.83,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-26",
+    "AreaName": "Hunter Valley",
+    "Sales": 2494.4,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-26",
+    "AreaName": "Michael Goldman",
+    "Sales": 3809,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-26",
+    "AreaName": "Victoria",
+    "Sales": 4488.91,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-27",
+    "AreaName": "Australia",
+    "Sales": 1448.41,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-27",
+    "AreaName": "Hunter Valley",
+    "Sales": 1558.8,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-27",
+    "AreaName": "Michael Goldman",
+    "Sales": 2899,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-27",
+    "AreaName": "Victoria",
+    "Sales": 1663.3,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-28",
+    "AreaName": "Australia",
+    "Sales": 1001.86,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-28",
+    "AreaName": "Hunter Valley",
+    "Sales": 1740.6,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-28",
+    "AreaName": "Michael Goldman",
+    "Sales": 3045,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-28",
+    "AreaName": "Victoria",
+    "Sales": 931.09,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-29",
+    "AreaName": "Australia",
+    "Sales": 1075.46,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-29",
+    "AreaName": "Hunter Valley",
+    "Sales": 2219.2,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-29",
+    "AreaName": "Michael Goldman",
+    "Sales": 5682,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-29",
+    "AreaName": "Victoria",
+    "Sales": 1046.45,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-30",
+    "AreaName": "Australia",
+    "Sales": 1468.36,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-30",
+    "AreaName": "Hunter Valley",
+    "Sales": 3762.4,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-30",
+    "AreaName": "Michael Goldman",
+    "Sales": 4579,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-30",
+    "AreaName": "Victoria",
+    "Sales": 1306.82,
+    "Series": 2
+  },
+  {
+    "date": "2009-01-31",
+    "AreaName": "Australia",
+    "Sales": 2704.05,
+    "Series": 3
+  },
+  {
+    "date": "2009-01-31",
+    "AreaName": "Hunter Valley",
+    "Sales": 6030.6,
+    "Series": 1
+  },
+  {
+    "date": "2009-01-31",
+    "AreaName": "Michael Goldman",
+    "Sales": 7378,
+    "Series": 4
+  },
+  {
+    "date": "2009-01-31",
+    "AreaName": "Victoria",
+    "Sales": 2266.92,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-01",
+    "AreaName": "Australia",
+    "Sales": 2316.83,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-01",
+    "AreaName": "Hunter Valley",
+    "Sales": 5618.6,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-01",
+    "AreaName": "Michael Goldman",
+    "Sales": 6363,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-01",
+    "AreaName": "Victoria",
+    "Sales": 2885.25,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-02",
+    "AreaName": "Australia",
+    "Sales": 785.33,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-02",
+    "AreaName": "Hunter Valley",
+    "Sales": 1488.6,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-02",
+    "AreaName": "Michael Goldman",
+    "Sales": 2414,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-02",
+    "AreaName": "Victoria",
+    "Sales": 1443.25,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-03",
+    "AreaName": "Australia",
+    "Sales": 953.74,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-03",
+    "AreaName": "Hunter Valley",
+    "Sales": 1320.4,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-03",
+    "AreaName": "Michael Goldman",
+    "Sales": 2056,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-03",
+    "AreaName": "Victoria",
+    "Sales": 1624.5,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-04",
+    "AreaName": "Australia",
+    "Sales": 924.94,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-04",
+    "AreaName": "Hunter Valley",
+    "Sales": 998.2,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-04",
+    "AreaName": "Michael Goldman",
+    "Sales": 1581,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-04",
+    "AreaName": "Victoria",
+    "Sales": 1281.6,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-05",
+    "AreaName": "Australia",
+    "Sales": 1248.22,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-05",
+    "AreaName": "Hunter Valley",
+    "Sales": 1720.6,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-05",
+    "AreaName": "Michael Goldman",
+    "Sales": 3161,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-05",
+    "AreaName": "Victoria",
+    "Sales": 998.1,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-06",
+    "AreaName": "Australia",
+    "Sales": 1564.89,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-06",
+    "AreaName": "Hunter Valley",
+    "Sales": 2145.8,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-06",
+    "AreaName": "Michael Goldman",
+    "Sales": 4497,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-06",
+    "AreaName": "Victoria",
+    "Sales": 1269.8,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-07",
+    "AreaName": "Australia",
+    "Sales": 2731.62,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-07",
+    "AreaName": "Hunter Valley",
+    "Sales": 5087.8,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-07",
+    "AreaName": "Michael Goldman",
+    "Sales": 4570,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-07",
+    "AreaName": "Victoria",
+    "Sales": 2263.83,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-08",
+    "AreaName": "Australia",
+    "Sales": 2511.36,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-08",
+    "AreaName": "Hunter Valley",
+    "Sales": 2443.8,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-08",
+    "AreaName": "Michael Goldman",
+    "Sales": 3451,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-08",
+    "AreaName": "Victoria",
+    "Sales": 1853.18,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-09",
+    "AreaName": "Australia",
+    "Sales": 918.38,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-09",
+    "AreaName": "Hunter Valley",
+    "Sales": 1409.4,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-09",
+    "AreaName": "Michael Goldman",
+    "Sales": 2204,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-09",
+    "AreaName": "Victoria",
+    "Sales": 1183.57,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-10",
+    "AreaName": "Australia",
+    "Sales": 942.67,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-10",
+    "AreaName": "Hunter Valley",
+    "Sales": 1229.4,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-10",
+    "AreaName": "Michael Goldman",
+    "Sales": 1759,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-10",
+    "AreaName": "Victoria",
+    "Sales": 1002.86,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-11",
+    "AreaName": "Australia",
+    "Sales": 1116.21,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-11",
+    "AreaName": "Hunter Valley",
+    "Sales": 1878,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-11",
+    "AreaName": "Michael Goldman",
+    "Sales": 2482,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-11",
+    "AreaName": "Victoria",
+    "Sales": 939.75,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-12",
+    "AreaName": "Australia",
+    "Sales": 1421.29,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-12",
+    "AreaName": "Hunter Valley",
+    "Sales": 2493,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-12",
+    "AreaName": "Michael Goldman",
+    "Sales": 3279,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-12",
+    "AreaName": "Victoria",
+    "Sales": 1260.13,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-13",
+    "AreaName": "Australia",
+    "Sales": 1900.75,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-13",
+    "AreaName": "Hunter Valley",
+    "Sales": 3267,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-13",
+    "AreaName": "Michael Goldman",
+    "Sales": 3805,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-13",
+    "AreaName": "Victoria",
+    "Sales": 2149,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-14",
+    "AreaName": "Australia",
+    "Sales": 3253.52,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-14",
+    "AreaName": "Hunter Valley",
+    "Sales": 7050,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-14",
+    "AreaName": "Michael Goldman",
+    "Sales": 9236,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-14",
+    "AreaName": "Victoria",
+    "Sales": 3380.7,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-15",
+    "AreaName": "Australia",
+    "Sales": 2843.34,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-15",
+    "AreaName": "Hunter Valley",
+    "Sales": 4957,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-15",
+    "AreaName": "Michael Goldman",
+    "Sales": 3851,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-15",
+    "AreaName": "Victoria",
+    "Sales": 3343.8,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-16",
+    "AreaName": "Australia",
+    "Sales": 1211.49,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-16",
+    "AreaName": "Hunter Valley",
+    "Sales": 1467,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-16",
+    "AreaName": "Michael Goldman",
+    "Sales": 2739,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-16",
+    "AreaName": "Victoria",
+    "Sales": 2528.67,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-17",
+    "AreaName": "Australia",
+    "Sales": 1076.8,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-17",
+    "AreaName": "Hunter Valley",
+    "Sales": 1528,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-17",
+    "AreaName": "Michael Goldman",
+    "Sales": 2120,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-17",
+    "AreaName": "Victoria",
+    "Sales": 950.5,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-18",
+    "AreaName": "Australia",
+    "Sales": 1284.89,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-18",
+    "AreaName": "Hunter Valley",
+    "Sales": 1501,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-18",
+    "AreaName": "Michael Goldman",
+    "Sales": 2865,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-18",
+    "AreaName": "Victoria",
+    "Sales": 2193,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-19",
+    "AreaName": "Australia",
+    "Sales": 1370.24,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-19",
+    "AreaName": "Hunter Valley",
+    "Sales": 1415.8,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-19",
+    "AreaName": "Michael Goldman",
+    "Sales": 2818,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-19",
+    "AreaName": "Victoria",
+    "Sales": 1814.29,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-20",
+    "AreaName": "Australia",
+    "Sales": 1792.35,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-20",
+    "AreaName": "Hunter Valley",
+    "Sales": 2152,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-20",
+    "AreaName": "Michael Goldman",
+    "Sales": 3368,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-20",
+    "AreaName": "Victoria",
+    "Sales": 1793.29,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-21",
+    "AreaName": "Australia",
+    "Sales": 3778.22,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-21",
+    "AreaName": "Hunter Valley",
+    "Sales": 10230,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-21",
+    "AreaName": "Michael Goldman",
+    "Sales": 11731,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-21",
+    "AreaName": "Victoria",
+    "Sales": 3650.22,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-22",
+    "AreaName": "Australia",
+    "Sales": 2511.23,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-22",
+    "AreaName": "Hunter Valley",
+    "Sales": 6597.4,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-22",
+    "AreaName": "Michael Goldman",
+    "Sales": 5520,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-22",
+    "AreaName": "Victoria",
+    "Sales": 2931.33,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-23",
+    "AreaName": "Australia",
+    "Sales": 1157.75,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-23",
+    "AreaName": "Hunter Valley",
+    "Sales": 2195.25,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-23",
+    "AreaName": "Michael Goldman",
+    "Sales": 3099,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-23",
+    "AreaName": "Victoria",
+    "Sales": 996.67,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-24",
+    "AreaName": "Australia",
+    "Sales": 1195.33,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-24",
+    "AreaName": "Hunter Valley",
+    "Sales": 1517.25,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-24",
+    "AreaName": "Michael Goldman",
+    "Sales": 1731,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-24",
+    "AreaName": "Victoria",
+    "Sales": 2049,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-25",
+    "AreaName": "Australia",
+    "Sales": 1367.96,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-25",
+    "AreaName": "Hunter Valley",
+    "Sales": 2657.25,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-25",
+    "AreaName": "Michael Goldman",
+    "Sales": 2051,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-25",
+    "AreaName": "Victoria",
+    "Sales": 1386.71,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-26",
+    "AreaName": "Australia",
+    "Sales": 1735.54,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-26",
+    "AreaName": "Hunter Valley",
+    "Sales": 2303.75,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-26",
+    "AreaName": "Michael Goldman",
+    "Sales": 4354,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-26",
+    "AreaName": "Victoria",
+    "Sales": 1819.71,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-27",
+    "AreaName": "Australia",
+    "Sales": 2618.72,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-27",
+    "AreaName": "Hunter Valley",
+    "Sales": 4842.75,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-27",
+    "AreaName": "Michael Goldman",
+    "Sales": 1511,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-27",
+    "AreaName": "Victoria",
+    "Sales": 1914.14,
+    "Series": 2
+  },
+  {
+    "date": "2009-02-28",
+    "AreaName": "Australia",
+    "Sales": 4194.9,
+    "Series": 3
+  },
+  {
+    "date": "2009-02-28",
+    "AreaName": "Hunter Valley",
+    "Sales": 9100.5,
+    "Series": 1
+  },
+  {
+    "date": "2009-02-28",
+    "AreaName": "Michael Goldman",
+    "Sales": 9196,
+    "Series": 4
+  },
+  {
+    "date": "2009-02-28",
+    "AreaName": "Victoria",
+    "Sales": 4830.5,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-01",
+    "AreaName": "Australia",
+    "Sales": 3274.4,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-01",
+    "AreaName": "Hunter Valley",
+    "Sales": 5177.25,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-01",
+    "AreaName": "Michael Goldman",
+    "Sales": 5661,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-01",
+    "AreaName": "Victoria",
+    "Sales": 3520.13,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-02",
+    "AreaName": "Australia",
+    "Sales": 1389.4,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-02",
+    "AreaName": "Hunter Valley",
+    "Sales": 1473.25,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-02",
+    "AreaName": "Michael Goldman",
+    "Sales": 2606,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-02",
+    "AreaName": "Victoria",
+    "Sales": 2469.17,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-03",
+    "AreaName": "Australia",
+    "Sales": 1291.24,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-03",
+    "AreaName": "Hunter Valley",
+    "Sales": 2118.25,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-03",
+    "AreaName": "Michael Goldman",
+    "Sales": 1667,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-03",
+    "AreaName": "Victoria",
+    "Sales": 2288.33,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-04",
+    "AreaName": "Australia",
+    "Sales": 1483.42,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-04",
+    "AreaName": "Hunter Valley",
+    "Sales": 1817,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-04",
+    "AreaName": "Michael Goldman",
+    "Sales": 3031,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-04",
+    "AreaName": "Victoria",
+    "Sales": 1752.57,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-05",
+    "AreaName": "Australia",
+    "Sales": 1466.89,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-05",
+    "AreaName": "Hunter Valley",
+    "Sales": 2515,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-05",
+    "AreaName": "Michael Goldman",
+    "Sales": 3304,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-05",
+    "AreaName": "Victoria",
+    "Sales": 1558.71,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-06",
+    "AreaName": "Australia",
+    "Sales": 3014.82,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-06",
+    "AreaName": "Hunter Valley",
+    "Sales": 5349,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-06",
+    "AreaName": "Michael Goldman",
+    "Sales": 6775,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-06",
+    "AreaName": "Victoria",
+    "Sales": 2263.57,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-07",
+    "AreaName": "Australia",
+    "Sales": 4873.96,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-07",
+    "AreaName": "Hunter Valley",
+    "Sales": 10260.25,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-07",
+    "AreaName": "Michael Goldman",
+    "Sales": 13916,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-07",
+    "AreaName": "Victoria",
+    "Sales": 5836.13,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-08",
+    "AreaName": "Australia",
+    "Sales": 5015.24,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-08",
+    "AreaName": "Hunter Valley",
+    "Sales": 7955.25,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-08",
+    "AreaName": "Michael Goldman",
+    "Sales": 6604,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-08",
+    "AreaName": "Victoria",
+    "Sales": 7339.5,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-09",
+    "AreaName": "Australia",
+    "Sales": 2780.93,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-09",
+    "AreaName": "Hunter Valley",
+    "Sales": 2516.5,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-09",
+    "AreaName": "Michael Goldman",
+    "Sales": 4569,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-09",
+    "AreaName": "Victoria",
+    "Sales": 6701.71,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-10",
+    "AreaName": "Australia",
+    "Sales": 1392.12,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-10",
+    "AreaName": "Hunter Valley",
+    "Sales": 1918.25,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-10",
+    "AreaName": "Michael Goldman",
+    "Sales": 2471,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-10",
+    "AreaName": "Victoria",
+    "Sales": 2185.83,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-11",
+    "AreaName": "Australia",
+    "Sales": 1431.8,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-11",
+    "AreaName": "Hunter Valley",
+    "Sales": 2273.25,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-11",
+    "AreaName": "Michael Goldman",
+    "Sales": 4464,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-11",
+    "AreaName": "Victoria",
+    "Sales": 1605,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-12",
+    "AreaName": "Australia",
+    "Sales": 1712.6,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-12",
+    "AreaName": "Hunter Valley",
+    "Sales": 2482.75,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-12",
+    "AreaName": "Michael Goldman",
+    "Sales": 3742,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-12",
+    "AreaName": "Victoria",
+    "Sales": 2438.29,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-13",
+    "AreaName": "Australia",
+    "Sales": 1654.87,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-13",
+    "AreaName": "Hunter Valley",
+    "Sales": 3175.5,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-13",
+    "AreaName": "Michael Goldman",
+    "Sales": 3893,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-13",
+    "AreaName": "Victoria",
+    "Sales": 2145.57,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-14",
+    "AreaName": "Australia",
+    "Sales": 4447.57,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-14",
+    "AreaName": "Hunter Valley",
+    "Sales": 8017.75,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-14",
+    "AreaName": "Michael Goldman",
+    "Sales": 9578,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-14",
+    "AreaName": "Victoria",
+    "Sales": 4069.13,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-15",
+    "AreaName": "Australia",
+    "Sales": 3411.09,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-15",
+    "AreaName": "Hunter Valley",
+    "Sales": 4966.5,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-15",
+    "AreaName": "Michael Goldman",
+    "Sales": 5552,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-15",
+    "AreaName": "Victoria",
+    "Sales": 4021.38,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-16",
+    "AreaName": "Australia",
+    "Sales": 1561.9,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-16",
+    "AreaName": "Hunter Valley",
+    "Sales": 1438,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-16",
+    "AreaName": "Michael Goldman",
+    "Sales": 2695,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-16",
+    "AreaName": "Victoria",
+    "Sales": 2493,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-17",
+    "AreaName": "Australia",
+    "Sales": 1576.69,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-17",
+    "AreaName": "Hunter Valley",
+    "Sales": 1958.5,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-17",
+    "AreaName": "Michael Goldman",
+    "Sales": 1656,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-17",
+    "AreaName": "Victoria",
+    "Sales": 3295.8,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-18",
+    "AreaName": "Australia",
+    "Sales": 1711.1,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-18",
+    "AreaName": "Hunter Valley",
+    "Sales": 1329,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-18",
+    "AreaName": "Michael Goldman",
+    "Sales": 1121,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-18",
+    "AreaName": "Victoria",
+    "Sales": 4646.2,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-19",
+    "AreaName": "Australia",
+    "Sales": 1995.28,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-19",
+    "AreaName": "Hunter Valley",
+    "Sales": 2185.33,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-19",
+    "AreaName": "Michael Goldman",
+    "Sales": 2683,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-19",
+    "AreaName": "Victoria",
+    "Sales": 1693,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-20",
+    "AreaName": "Australia",
+    "Sales": 2054.68,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-20",
+    "AreaName": "Hunter Valley",
+    "Sales": 3352.67,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-20",
+    "AreaName": "Michael Goldman",
+    "Sales": 3691,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-20",
+    "AreaName": "Victoria",
+    "Sales": 2016,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-21",
+    "AreaName": "Australia",
+    "Sales": 4787.9,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-21",
+    "AreaName": "Hunter Valley",
+    "Sales": 10850.67,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-21",
+    "AreaName": "Michael Goldman",
+    "Sales": 10042,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-21",
+    "AreaName": "Victoria",
+    "Sales": 4751.67,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-22",
+    "AreaName": "Australia",
+    "Sales": 3441.79,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-22",
+    "AreaName": "Hunter Valley",
+    "Sales": 8990.67,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-22",
+    "AreaName": "Michael Goldman",
+    "Sales": 7062,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-22",
+    "AreaName": "Victoria",
+    "Sales": 4168.67,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-23",
+    "AreaName": "Australia",
+    "Sales": 1857.63,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-23",
+    "AreaName": "Hunter Valley",
+    "Sales": 3508.67,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-23",
+    "AreaName": "Michael Goldman",
+    "Sales": 4075,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-23",
+    "AreaName": "Victoria",
+    "Sales": 2510,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-24",
+    "AreaName": "Australia",
+    "Sales": 1360.24,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-24",
+    "AreaName": "Hunter Valley",
+    "Sales": 1881.33,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-24",
+    "AreaName": "Michael Goldman",
+    "Sales": 1863,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-24",
+    "AreaName": "Victoria",
+    "Sales": 2276.4,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-25",
+    "AreaName": "Australia",
+    "Sales": 1665.51,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-25",
+    "AreaName": "Hunter Valley",
+    "Sales": 2082.33,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-25",
+    "AreaName": "Michael Goldman",
+    "Sales": 3270,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-25",
+    "AreaName": "Victoria",
+    "Sales": 2635.4,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-26",
+    "AreaName": "Australia",
+    "Sales": 1752.45,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-26",
+    "AreaName": "Hunter Valley",
+    "Sales": 2052,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-26",
+    "AreaName": "Michael Goldman",
+    "Sales": 2118,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-26",
+    "AreaName": "Victoria",
+    "Sales": 2908,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-27",
+    "AreaName": "Australia",
+    "Sales": 2835.35,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-27",
+    "AreaName": "Hunter Valley",
+    "Sales": 4622,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-27",
+    "AreaName": "Michael Goldman",
+    "Sales": 4831,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-27",
+    "AreaName": "Victoria",
+    "Sales": 3368.4,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-28",
+    "AreaName": "Australia",
+    "Sales": 4463.19,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-28",
+    "AreaName": "Hunter Valley",
+    "Sales": 7948.67,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-28",
+    "AreaName": "Michael Goldman",
+    "Sales": 8283,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-28",
+    "AreaName": "Victoria",
+    "Sales": 4370.83,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-29",
+    "AreaName": "Australia",
+    "Sales": 3750.76,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-29",
+    "AreaName": "Hunter Valley",
+    "Sales": 5261.67,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-29",
+    "AreaName": "Michael Goldman",
+    "Sales": 6665,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-29",
+    "AreaName": "Victoria",
+    "Sales": 5233.17,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-30",
+    "AreaName": "Australia",
+    "Sales": 1437.49,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-30",
+    "AreaName": "Hunter Valley",
+    "Sales": 1959,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-30",
+    "AreaName": "Michael Goldman",
+    "Sales": 2014,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-30",
+    "AreaName": "Victoria",
+    "Sales": 2110,
+    "Series": 2
+  },
+  {
+    "date": "2009-03-31",
+    "AreaName": "Australia",
+    "Sales": 2803.92,
+    "Series": 3
+  },
+  {
+    "date": "2009-03-31",
+    "AreaName": "Hunter Valley",
+    "Sales": 7340.33,
+    "Series": 1
+  },
+  {
+    "date": "2009-03-31",
+    "AreaName": "Michael Goldman",
+    "Sales": 3466,
+    "Series": 4
+  },
+  {
+    "date": "2009-03-31",
+    "AreaName": "Victoria",
+    "Sales": 3415.2,
+    "Series": 2
+  }
+]

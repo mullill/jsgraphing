@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script type="text/javascript" src="jquery/jquery-3.1.0.min.js"></script>
+		<script type="text/javascript" src="d3/d3.js"></script>
+		<script type="text/javascript" src="metrics-graphics-2.10.0/dist/metricsgraphics.js"></script>
+		
+		<link href='metrics-graphics-2.10.0/dist/metricsgraphics.css' rel='stylesheet' type='text/css'>
+		<link href='css/highlightjs-default.css' rel='stylesheet' type='text/css' id='light-code'>
+		<link href='metrics-graphics-2.10.0/examples/css/metricsgraphics-demo.css' rel='stylesheet' type='text/css' id='light'>		
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+		<link href='https://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css' rel='stylesheet' type='text/css'>
+		<link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+	
+		<script>		
+		
+			
+			$(document).ready(function() {
+			
+				var globals = {};
+
+				function format_x_label(date) {
+				  return date.getDay();
+				}				
+				
+				var modify_time_period_params = {
+					title: "Average Daily Sales",
+					description: "Average Daily Sales - Cellar Door / Tourism Region / State / Country",
+					width: 1200,
+					height: 500,
+					right: 50,
+					target: '#cellar-sales',
+					legend: ['Region','State','Country', 'Store'],
+					legend_target: '#legend',
+					y_accessor: 'Sales',
+					x_assessor: 'date',
+					xax_count: 10,
+					xax_format: format_x_label,
+					show_secondary_x_label: false,
+					//animate_on_load: true,
+					point_size: 4,
+					x_extended_ticks: true,
+					y_extended_ticks: true
+				}
+			
+				d3.json('data/cellar.json', function(data) {
+					var series1 = [];
+					var series2 = [];
+					var series3 = [];
+					var series4 = [];
+
+					for (var i = 0; i < data.length; i++) {					
+						if(data[i].Series == 1){
+							series1.push(data[i]);
+						}
+						if(data[i].Series == 2){
+							series2.push(data[i]);
+						}
+						if(data[i].Series == 3){
+							series3.push(data[i]);
+						}
+						if(data[i].Series == 4){
+							series4.push(data[i]);
+						}
+					}
+							
+					series1 = MG.convert.date(series1, 'date');
+					series2 = MG.convert.date(series2, 'date');
+					series3 = MG.convert.date(series3, 'date');
+					series4 = MG.convert.date(series4, 'date');
+					
+					data = [series1, series2, series3, series4];
+					globals.all_data = data;			
+					globals.data = data;
+					console.log("all data stored globally - " + data[0].length);
+					modify_time_period_params.data = data;
+					MG.data_graphic(modify_time_period_params);					
+
+				
+				});
+
+				$('.modify-time-period-controls button').click(function() {
+					
+					var past_n_days = $(this).data('time_period');
+					console.log("all data length - " + globals.all_data[0].length);
+					var data = modify_time_period(past_n_days);
+					console.log("all data length - " + globals.all_data[0].length);
+					console.log("returned data length - " + data[0].length);
+
+					// change button state
+					$(this).addClass('active').siblings().removeClass('active');
+
+					delete modify_time_period_params.xax_format;
+					modify_time_period_params.data = data;
+					
+					MG.data_graphic(modify_time_period_params);
+					
+					console.log("all data length - " + globals.all_data[0].length);
+					
+				});
+
+				function modify_time_period(past_n_days) {
+					var data = globals.all_data.slice(0);
+					
+					if (past_n_days !== '') {
+					
+						for (var i = 0; i < data.length; i++) {							
+							data[i] = MG.clone(data[i]).slice(past_n_days * -1);							
+						}
+						
+						return data;
+					}
+					
+					return data;
+				}
+			});
+		
+		</script>
+		
+		
+	</head>
+	<body>
+		<br/>
+		<br/>
+		<div>
+			<div align='center'>
+				<div class="modify-time-period-controls btn-group btn-group-sm text-center">
+					<button type="button" class="btn btn-default active" data-time_period="">All time</button>
+					<button type="button" class="btn btn-default" data-time_period="61">Past 2 months</button>
+					<button type="button" id="blah" class="btn btn-default" data-time_period="31">Past month</button>
+				</div>
+			</div>
+			<div id="cellar-sales" style="width:90%;"></div>			
+			<div id="legend" align='center'></div>
+		</div>	
+	</body>
+	
+</html>
