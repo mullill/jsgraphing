@@ -18,11 +18,15 @@
 		
 			
 			$(document).ready(function() {
-			
+				
+				var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+					"Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+				];
 				var globals = {};
 
 				function format_x_label(date) {
-				  return date.getDay();
+					
+					return date.getDate() + " " + monthNames[date.getMonth()];
 				}				
 				
 				var modify_time_period_params = {
