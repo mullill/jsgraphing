@@ -24,8 +24,7 @@
 				];
 				var globals = {};
 
-				function format_x_label(date) {
-					
+				function format_x_label(date) {					
 					return date.getDate() + " " + monthNames[date.getMonth()];
 				}				
 				
@@ -46,7 +45,8 @@
 					//animate_on_load: true,
 					point_size: 4,
 					x_extended_ticks: true,
-					y_extended_ticks: true
+					y_extended_ticks: true,
+					interpolate: d3.curveLinear
 				}
 			
 				d3.json('data/cellar.json', function(data) {
@@ -78,7 +78,7 @@
 					data = [series1, series2, series3, series4];
 					globals.all_data = data;			
 					globals.data = data;
-					console.log("all data stored globally - " + data[0].length);
+					
 					modify_time_period_params.data = data;
 					MG.data_graphic(modify_time_period_params);					
 
@@ -87,21 +87,17 @@
 
 				$('.modify-time-period-controls button').click(function() {
 					
-					var past_n_days = $(this).data('time_period');
-					console.log("all data length - " + globals.all_data[0].length);
+					var past_n_days = $(this).data('time_period');					
 					var data = modify_time_period(past_n_days);
-					console.log("all data length - " + globals.all_data[0].length);
-					console.log("returned data length - " + data[0].length);
-
+					
 					// change button state
 					$(this).addClass('active').siblings().removeClass('active');
 
 					delete modify_time_period_params.xax_format;
 					modify_time_period_params.data = data;
-					
-					MG.data_graphic(modify_time_period_params);
-					
-					console.log("all data length - " + globals.all_data[0].length);
+					console.log('redraw');
+					MG.data_graphic(modify_time_period_params);					
+					console.log('end redraw');
 					
 				});
 
